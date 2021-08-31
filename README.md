@@ -1,1 +1,3 @@
 # PythonCovidApp
+
+A Python project for information regarding covid...
