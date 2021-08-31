@@ -1,0 +1,11 @@
+def preventions():
+    print("Preventions to be taken during these tough days are:-\n\t1. Avoid close contact with people who are sick. Maintain at least three feet distance between yourself and anyone who is coughing or sneezing.")
+    print("\t2. Avoid touching your eyes, nose, and mouth.")
+    print("\t3. Stay home when you are sick.")
+    print("\t4. Cover your cough or sneeze with a tissue, then dispose of the tissue safely.")
+    print("\t5. Clean and disinfect frequently-touched objects and surfaces using a regular household cleaning spray or wipe.")
+    print("\t6. Wearing a mask is not necessary unless you are taking care of an infected person. The Centers for Disease Control (CDC) does recommend that only \n\tinfected people wear masks to prevent the spread of the virus.")
+    print("\t7. Wash your hands often with soap and water for at least 20 seconds, especially after going to the bathroom, before eating, and after blowing your \n\tnose, coughing, or sneezing.")
+    print("\t8. If soap and water are not readily available, use an alcohol-based hand sanitiser with at least 60% alcohol. Always wash hands with soap and water \n\twhen hands are visibly dirty.")
+    print("\t9. If you have a fever, cough and difficulty breathing, seek medical attention immediately.")
+    print("\t10. Keep in mind the travel advisory set out by the Ministry of Health and Welfare.")

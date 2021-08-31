@@ -1,0 +1,12 @@
+def gov():
+    print('"MYTHS & APPREHENSIONS"\n')
+    print("1.Bathing with hot water stops the spread of coronavirus!")
+    print("    There is no clinical evidence that confirms that taking a hot bath would prevent the coronavirus disease. Also there is no evidence to say that warm weather will contain the virus.\n")
+    print("2.Home remedies help control coronavirus!")
+    print("    At present, there is no specific medicine to prevent or treat coronavirus disease (COVID-19). Traditional home remedies may help to some extent, but it is not a proven solution. It is mandatory to follow the doctors' instructions\n")
+    print("3.Are Homeopathy/ Antibiotic Drugs useful in Covid-19 Treatment?")
+    print("    Homeopathy and antibiotic drugs do not treat Coronavirus. It is mandatory to follow the doctors' instructions.\n")
+    print("4.Drinking alcohol stops Corona virus")
+    print("    No alcohol has the power to reduce the illness of any disease. Many were killed because of believing it.\n")
+    print("5.Spread of Corona from chicken..!")
+    print("    It's totally a myth in addition to that this gives immunity and keeps you safer\n")

@@ -1,0 +1,39 @@
+
+Donation 
+Name: sai teja 
+Amount: 5000 
+Bank Name: sbi
+Pin Code: 502032 
+Landmark: fusion international school 
+Comments:very good service
+Phone Number: 9550953779
+Age: 18
+Name: sai
+State: telangana
+District:chandagar
+
+Risk factor: 0
+Donation 
+Name: sai 
+Amount: 5000 
+Bank Name: sbi
+Phone Number: 9550957739
+Age: 18
+Name: sai
+State: tel
+District:chandanagar
+
+Risk factor: 0
+Phone Number: 9550953779
+Age: 18
+Name: sai
+State: telangana
+District:guntur
+
+Phone Number: 9550953779
+Age: 18
+Name: sai
+State: tel
+District:guntur
+
+Risk factor: 7
